@@ -1,3 +1,5 @@
+<font size="12"> This is my text number1</font>
+
 # R Markdown Document
 
 # Title: Visual Nudge To Inverse Monetary Preferences
@@ -7,4 +9,4 @@
 # In this study, I have examined the effect of visual nudges on consumer preferences. My design revolves around conducting a survey that asks an identical question that is accompanied by two different images. The study presents participants with two options: a $100 cash rebate or a free $150 Apple gift card with the purchase of an iPhone. The two distinct images, one of a cash sign and the other of an arrangement of Apple products appear with the question at random. The participant is asked for their preference on a 1-7 scale: 1 – high preference for the gift card, 7 – high preference for cash.
 
 [Click here to view the
-PDF](https://drive.google.com/file/d/1HZa3sdQ-lPxrF6v8eDaPY1UpVB-ERT8Y/view?usp=share_link)
+PDF](https://drive.google.com/file/d/13G1jTq9X7efsPY0O7bBE1P3VQKQCWzlK/view?usp=share_link)
