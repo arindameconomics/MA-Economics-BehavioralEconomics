@@ -1,5 +1,3 @@
-<font size="12">This is my text number1&lt;font=“Italica”&gt;
-
 # R Markdown Document
 
 # Title: Visual Nudge To Inverse Monetary Preferences

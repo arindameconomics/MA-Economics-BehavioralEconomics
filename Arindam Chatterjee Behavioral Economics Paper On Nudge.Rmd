@@ -4,9 +4,8 @@ output:
   md_document:
     df_print: 
 date: "2023-09-02"
+fontsize: 16 pt
 ---
-
- <font size="12">This is my text number1<font="Italica"> 
 
 # R Markdown Document
 
