@@ -8,8 +8,8 @@ asks an identical question that is accompanied by two different images.
 The study presents participants with two options: a $100 cash rebate or
 a free $150 Apple gift card with the purchase of an iPhone. The two
 distinct images, one of a cash sign and the other of an arrangement of
-Apple products appear with the question at random. The participant is
-asked for their preference on a 1-7 scale: 1 – high preference for the
+Apple products appear with the question at random. The participants are
+asked for their preferences on a 1-7 scale: 1 – high preference for the
 gift card, 7 – high preference for cash.
 
 [Click here to view the
