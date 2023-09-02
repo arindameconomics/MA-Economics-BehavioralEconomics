@@ -1,4 +1,4 @@
-<font size="12"> &lt;font=“Italica”&gt; This is my text number1</font>
+<font size="12">This is my text number1&lt;/font=“Italica”&gt;
 
 # R Markdown Document
 
