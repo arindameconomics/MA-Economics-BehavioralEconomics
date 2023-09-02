@@ -2,6 +2,8 @@ R Markdown Document
 
 Title: Visual Nudge To Inverse Monetary Preferences
 
+Author: Arindam Chatterjee
+
 Abstract In this study, I have examined the effect of visual nudges on
 consumer preferences. My design revolves around conducting a survey that
 asks an identical question that is accompanied by two different images.
