@@ -2,7 +2,7 @@
 title: Arindam Chatterjee Behavioral Economics Paper On Nudge
 output:
   md_document:
-    df_print: paged
+    df_print: 
 date: "2023-09-02"
 ---
 
