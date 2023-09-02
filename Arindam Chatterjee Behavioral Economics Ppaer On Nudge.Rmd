@@ -1,5 +1,5 @@
 ---
-title: Arindam Chatterjee Behavioral Economics Ppaer On Nudge
+title: Arindam Chatterjee Behavioral Economics Paper On Nudge
 output:
   md_document:
     df_print: paged
